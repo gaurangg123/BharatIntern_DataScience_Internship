@@ -1,1 +1,1 @@
-# BharatIntern_DataScience_Internship
+# BharatIntern Data Science Internship
